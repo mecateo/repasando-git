@@ -20,4 +20,5 @@ git config --global user.email "miguel_meca01@gmail.com"
 git config --list
 ```
 
-Esta linea fue creada en la rama master
+## aportes desde otra cuebta
+este texto fue aportado desde la cuenta miguelmec
