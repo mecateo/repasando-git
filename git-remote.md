@@ -1,4 +1,4 @@
-## git remote add origin https://github.com/mecateo/repasando-git.git
+# git remote add origin https://github.com/mecateo/repasando-git.git
 
 con este comando vinculamos nuestro repositorio local con github.
 
@@ -13,5 +13,5 @@ con este comando vinculamos nuestro repositorio local con github.
 8. Esperar que el administrador del repositorio original acepte mis cambios.
 
 
-## Varios repositorios remotos
+### Varios repositorios remotos
 Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
