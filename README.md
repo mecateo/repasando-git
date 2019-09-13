@@ -19,6 +19,3 @@ git config --global user.name "Miguel Angel Meca Pacherres"
 git config --global user.email "miguel_meca01@gmail.com"
 git config --list
 ```
-
-## aportes desde otra cuebta
-este texto fue aportado desde la cuenta miguelmec
