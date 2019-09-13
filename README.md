@@ -19,3 +19,5 @@ git config --global user.name "Miguel Angel Meca Pacherres"
 git config --global user.email "miguel_meca01@gmail.com"
 git config --list
 ```
+
+Esta línea se agregó desde un equipo windows conectado al repositorio local con Github a través de HTTPS.
